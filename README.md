@@ -21,3 +21,9 @@ git pull
 ## 合并时，解决冲突
 
 修改冲突文件，然后 git add 该文件，最后 commit，完成合并分支
+
+## 给本地仓库配置远程仓库
+
+git remote add {name} {url}
+
+例子: git remote add origin git@github.com:phoebezeng/Travel.git
