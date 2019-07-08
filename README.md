@@ -13,3 +13,7 @@ git push
 ## 切换分支
 
 git checkout dev
+`
+## 拉取代码
+
+git pull
