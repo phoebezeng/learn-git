@@ -9,3 +9,7 @@ git clone git@github.com:phoebezeng/learn-git.git
 ## 提交代码
 
 git push
+
+## 拉取代码
+
+git pull
